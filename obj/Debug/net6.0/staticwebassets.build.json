@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "smUHYf2cHuCaDiWzTWfSlT6uesYobLVJzPXNA9QQrY4=",
+  "Source": "MyWebApp",
+  "BasePath": "_content/MyWebApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MyWebApp\\wwwroot",
+      "Source": "MyWebApp",
+      "ContentRoot": "C:\\Users\\HP\\Downloads\\MyWebApp_Updated\\wwwroot\\",
+      "BasePath": "_content/MyWebApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\HP\\Downloads\\MyWebApp_Updated\\wwwroot\\【不斷更新】北北基桃明天停班課 全台颱風假一覽.html",
+      "SourceId": "MyWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Downloads\\MyWebApp_Updated\\wwwroot\\",
+      "BasePath": "_content/MyWebApp",
+      "RelativePath": "【不斷更新】北北基桃明天停班課 全台颱風假一覽.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\【不斷更新】北北基桃明天停班課 全台颱風假一覽.html"
+    }
+  ]
+}
