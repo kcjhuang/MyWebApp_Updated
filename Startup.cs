@@ -25,7 +25,7 @@ public class Startup
         {
             endpoints.MapGet("/", async context =>
             {
-                await context.Response.SendFileAsync("wwwroot/index.html");
+                await context.Response.SendFileAsync("index.html");
             });
         });
     }
