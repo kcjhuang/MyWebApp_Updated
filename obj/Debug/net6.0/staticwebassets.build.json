@@ -17,12 +17,12 @@
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\HP\\Downloads\\MyWebApp_Updated\\wwwroot\\【不斷更新】北北基桃明天停班課 全台颱風假一覽.html",
+      "Identity": "C:\\Users\\HP\\Downloads\\MyWebApp_Updated\\wwwroot\\【快訊!!!】公告!! [7/25]（四）宣達北北基桃停班課.html",
       "SourceId": "MyWebApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\HP\\Downloads\\MyWebApp_Updated\\wwwroot\\",
       "BasePath": "_content/MyWebApp",
-      "RelativePath": "【不斷更新】北北基桃明天停班課 全台颱風假一覽.html",
+      "RelativePath": "【快訊!!!】公告!! [7/25]（四）宣達北北基桃停班課.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -31,7 +31,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\【不斷更新】北北基桃明天停班課 全台颱風假一覽.html"
+      "OriginalItemSpec": "wwwroot\\【快訊!!!】公告!! [7/25]（四）宣達北北基桃停班課.html"
     }
   ]
 }

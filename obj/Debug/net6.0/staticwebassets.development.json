@@ -1,1 +1,25 @@
-{"ContentRoots":["C:\\Users\\HP\\Downloads\\MyWebApp_Updated\\wwwroot\\"],"Root":{"Children":{"【不斷更新】北北基桃明天停班課 全台颱風假一覽.html":{"Children":null,"Asset":{"ContentRootIndex":0,"SubPath":"【不斷更新】北北基桃明天停班課 全台颱風假一覽.html"},"Patterns":null}},"Asset":null,"Patterns":[{"ContentRootIndex":0,"Pattern":"**","Depth":0}]}}
+{
+    "ContentRoots": [
+        "C:\\Users\\HP\\Downloads\\MyWebApp_Updated\\wwwroot\\"
+    ],
+    "Root": {
+        "Children": {
+            "【快訊!!!】公告!! [7/25]（四）宣達北北基桃停班課.html": {
+                "Children": null,
+                "Asset": {
+                    "ContentRootIndex": 0,
+                    "SubPath": "【快訊!!!】公告!! [7/25]（四）宣達北北基桃停班課.html"
+                },
+                "Patterns": null
+            }
+        },
+        "Asset": null,
+        "Patterns": [
+            {
+                "ContentRootIndex": 0,
+                "Pattern": "**",
+                "Depth": 0
+            }
+        ]
+    }
+}
